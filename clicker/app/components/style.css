@@ -1,0 +1,32 @@
+.cookie__body {
+    display: flex;
+    height: 850px;
+}
+
+.cookie__main {
+    width: calc(70%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #C6B89E;
+}
+
+.cookie__store {
+    width: calc(30%);
+    background-color: #EDD892;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: solid black 2px;
+}
+
+.cooka {
+    font-size: 30px;
+    color: #9e510d;
+}
